@@ -3,7 +3,12 @@ Peron Peroff useless machine
 
 # Parts
 
-Servo motor, 3d printed arm, switch, dfplayer pro, speaker and wooden box
+Arduino Nano
+Servo motor
+Switch
+Dfplayer pro
+3w speaker 
+Wooden box
 
 # 3d servo arm
 
